@@ -1,0 +1,10 @@
+###################################################
+# Ejemplo de archivo de variables
+###################################################
+
+region      = "us-east-1"
+client      = "acme"
+project     = "webapp"
+environment = "dev"
+ami_id      = "ami-0c55b159cbfafe1f0"
+key_name    = "my-key"
